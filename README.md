@@ -2,7 +2,7 @@
 
 This is a project of classification of furniture - bed, chair, lamp, wardrobe from the given image. The codes are based on implementation of ResNet50 on Python 3, Keras and TensorFlow using Transfer Learning. The model generates a class label from 4 classes - bed, chair, lamp and wardrobe.
 
-You can see the code example in [furniture_detection.ipynb](furniture_detection.ipynb).
+You can see the code and examples in [furniture_detection.ipynb](furniture_detection.ipynb).
 
 # Data Preprocessing
 

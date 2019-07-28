@@ -1,5 +1,7 @@
 # Furniture Classification using Deep Learning
 
+This is a project of classification of furniture - bed, chair, lamp, wardrobe from the given image. The codes are based on implementation of ResNet50 on Python 3, Keras and TensorFlow using Transfer Learning. The model generates a class label from 4 classes - bed, chair, lamp and wardrobe.
+
 # Data Preprocessing
 
 * There are 4 classes – Bed, Chair, Lamp & Wardrobe.

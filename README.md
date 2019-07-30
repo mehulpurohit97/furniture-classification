@@ -4,6 +4,10 @@ This is a project of classification of furniture - bed, chair, lamp, wardrobe fr
 
 The code and examples can be found in [furniture_detection.ipynb](furniture_detection.ipynb).
 
+# Examples
+
+<img src="images/img1.png"/>
+
 # Data Preprocessing
 
 * There are 4 classes – Bed, Chair, Lamp & Wardrobe.

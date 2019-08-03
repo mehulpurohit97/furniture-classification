@@ -4,10 +4,6 @@ This is a project of classification of furniture - bed, chair, lamp, wardrobe fr
 
 The code and examples can be found in [furniture_detection.ipynb](furniture_detection.ipynb).
 
-# Examples
-
-<img src="images/img1.png"/>
-
 # Data Preprocessing
 
 * There are 4 classes – Bed, Chair, Lamp & Wardrobe.
@@ -38,3 +34,7 @@ The code and examples can be found in [furniture_detection.ipynb](furniture_dete
 * Class Lamp is having the most number of errors in classification, 6 out of 50 lamp images are classified as chair, 5 as wardrobe & 1 as bed.
 * For the class chair, only 1 image has been wrongly classified as bed.
 * The model has some problems predicting some images of chairs and lamps because both of these classes may contain other objects also, the model gets confused in such cases.
+
+# Examples
+
+<img src="images/img1.png"/>
